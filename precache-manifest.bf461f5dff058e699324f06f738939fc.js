@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bootstrap-modal-auth/static/css/main.d08621b5.chunk.css"
   },
   {
-    "revision": "5f3e62cb24e5e394aaa5441ba6226730",
+    "revision": "f4fa5120d297fd40f4dc3e66eb59b792",
     "url": "/bootstrap-modal-auth/index.html"
   }
 ];
