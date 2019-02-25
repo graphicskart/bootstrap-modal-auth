@@ -1,14 +1,14 @@
 {
-  "main.css": "/bootstrap-modal-auth/static/css/main.d08621b5.chunk.css",
-  "main.js": "/bootstrap-modal-auth/static/js/main.ea99b587.chunk.js",
-  "main.js.map": "/bootstrap-modal-auth/static/js/main.ea99b587.chunk.js.map",
+  "main.css": "/bootstrap-modal-auth/static/css/main.1fc55715.chunk.css",
+  "main.js": "/bootstrap-modal-auth/static/js/main.8cb49f0f.chunk.js",
+  "main.js.map": "/bootstrap-modal-auth/static/js/main.8cb49f0f.chunk.js.map",
   "runtime~main.js": "/bootstrap-modal-auth/static/js/runtime~main.20d62caf.js",
   "runtime~main.js.map": "/bootstrap-modal-auth/static/js/runtime~main.20d62caf.js.map",
   "static/js/2.f11f3442.chunk.js": "/bootstrap-modal-auth/static/js/2.f11f3442.chunk.js",
   "static/js/2.f11f3442.chunk.js.map": "/bootstrap-modal-auth/static/js/2.f11f3442.chunk.js.map",
   "index.html": "/bootstrap-modal-auth/index.html",
-  "precache-manifest.e32e9b24ae0758e243341e16022d33d9.js": "/bootstrap-modal-auth/precache-manifest.e32e9b24ae0758e243341e16022d33d9.js",
+  "precache-manifest.bf82a134656b9f6992e1af4d81a71bc4.js": "/bootstrap-modal-auth/precache-manifest.bf82a134656b9f6992e1af4d81a71bc4.js",
   "service-worker.js": "/bootstrap-modal-auth/service-worker.js",
-  "static/css/main.d08621b5.chunk.css.map": "/bootstrap-modal-auth/static/css/main.d08621b5.chunk.css.map",
+  "static/css/main.1fc55715.chunk.css.map": "/bootstrap-modal-auth/static/css/main.1fc55715.chunk.css.map",
   "static/media/google.png": "/bootstrap-modal-auth/static/media/google.7f43c900.png"
 }
