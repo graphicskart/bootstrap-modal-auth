@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   handleShow = () => {
-    this.setState({ show: true });
+    this.setState({ show: true, step: 1 });
   }
 
   changeStep = (step) =>{
